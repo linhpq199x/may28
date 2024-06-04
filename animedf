@@ -1,0 +1,25 @@
+getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1168119649544704070/1246760312489644094/clay.txt?ex=665d8f86&is=665c3e06&hm=3f2081dd2d78a41e929c252b6ce7970f5fbc9649e45dc404aaf1547d0ee07299&"
+getgenv().Key = "k982682e91b260d186f25208"
+getgenv().Config = {
+    ["SelectChapter"] = "Chapter 1",
+    ["SelectWorld"] = "Windmill Village",
+    ["AutoSell"] = false,
+    ["BlackScreen"] = true,
+    ["SellWave"] = 1,
+    ["WH_MatchComplete"] = true,
+    ["AutoSkip"] = true,
+    ["TPLobbyIfPlayer"] = true,
+    ["HardMode"] = false,
+    ["IgnoreMacroTiming"] = true,
+    ["SelectMacro"] = "clay",
+    ["LeaveSellWave"] = 1,
+    ["AutoRejoin"] = true,
+    ["PlayMacro"] = true,
+    ["WebhookURL"] = "https://discord.com/api/webhooks/1247393219319435335/bItRNtK5uWWhszQHmQLWeNcSWcG99hUcgVenVhFzUrUZ0h3AfIfx4XWP1xTpeqyHCzDx",
+    ["AutoJoinWorld"] = true,
+    ["AutoSave"] = true,
+    ["BoostFPS"] = true,
+    ["AutoReplay"] = true,
+    ["AutoLeave"] = false
+}
+repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(10)until Joebiden
