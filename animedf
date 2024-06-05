@@ -1,4 +1,4 @@
-getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1168119649544704070/1246760312489644094/clay.txt?ex=665d8f86&is=665c3e06&hm=3f2081dd2d78a41e929c252b6ce7970f5fbc9649e45dc404aaf1547d0ee07299&"
+getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1168060832966529075/1247834684642168884/infi2_wave31.txt?ex=6661781c&is=6660269c&hm=aca06dbf92bf7f521cf41c8b301a8804f828d2f50373e37c4ef47357d9cbdf14&"
 getgenv().Key = "k982682e91b260d186f25208"
 getgenv().Config = {
     ["SelectChapter"] = "Infinite",
@@ -11,7 +11,7 @@ getgenv().Config = {
     ["TPLobbyIfPlayer"] = true,
     ["HardMode"] = false,
     ["IgnoreMacroTiming"] = true,
-    ["SelectMacro"] = "skullinfi_31",
+    ["SelectMacro"] = "infi2_wave31",
     ["LeaveSellWave"] = 31,
     ["AutoRejoin"] = true,
     ["PlayMacro"] = true,
