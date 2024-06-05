@@ -4,7 +4,7 @@ getgenv().Config = {
     ["SelectChapter"] = "Chapter 2",
     ["SelectWorld"] = "Windmill Village",
     ["AutoSell"] = false,
-    ["BlackScreen"] = false,
+    ["BlackScreen"] = true,
     ["SellWave"] = 1,
     ["WH_MatchComplete"] = true,
     ["AutoSkip"] = true,
@@ -19,7 +19,7 @@ getgenv().Config = {
     ["AutoJoinWorld"] = true,
     ["AutoSave"] = true,
     ["BoostFPS"] = true,
-    ["AutoReplay"] = false,
+    ["AutoReplay"] = true,
     ["AutoLeave"] = true
 }
 repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(10)until Joebiden
