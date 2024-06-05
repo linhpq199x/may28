@@ -19,7 +19,7 @@ getgenv().Config = {
     ["AutoJoinWorld"] = true,
     ["AutoSave"] = true,
     ["BoostFPS"] = true,
-    ["AutoReplay"] = true,
-    ["AutoLeave"] = false
+    ["AutoReplay"] = false,
+    ["AutoLeave"] = true
 }
 repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(10)until Joebiden
