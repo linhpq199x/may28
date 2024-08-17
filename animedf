@@ -1,5 +1,5 @@
 getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1168060832966529075/1247834684642168884/infi2_wave31.txt?ex=6661781c&is=6660269c&hm=aca06dbf92bf7f521cf41c8b301a8804f828d2f50373e37c4ef47357d9cbdf14&"
-getgenv().Key = "k982682e91b260d186f25208"
+getgenv().Key = "kf65640f1d9535394b17ec77"
 getgenv().Config = {
     ["SelectChapter"] = "Infinite",
     ["SelectWorld"] = "Windmill Village",
